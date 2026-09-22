@@ -1,0 +1,12 @@
+{
+  "name": "Fobuild",
+  "short_name": "Fobuild",
+  "description": "One theme, every surface. Try your palette, type and spacing on real websites and apps, live.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#b02c7f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
